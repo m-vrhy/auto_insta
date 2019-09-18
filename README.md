@@ -2,4 +2,4 @@
 An automated bot for using Instagram 
 
 
-Created using Selenium WebDriver and Python.
+Created using Selenium ChromeDriver (https://www.seleniumhq.org/projects/webdriver/) and Python.
